@@ -11,13 +11,13 @@
 <!-- ══════════════════ SOCIAL BADGES ══════════════════ -->
 <a href="https://athoofolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐 Portfolio-0f172a?style=for-the-badge&color=0f172a&labelColor=0f172a" alt="Portfolio"/></a>
 <a href="https://linkedin.com/in/atharvabhosale-ai" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=0f172a" alt="LinkedIn"/></a>
-<a href="https://github.com/atharva7471" target="_blank"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=f8fafc&labelColor=0f172a" alt="GitHub"/></a>
+<a href="https://github.com/atharvaabhosale" target="_blank"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=f8fafc&labelColor=0f172a" alt="GitHub"/></a>
 <a href="https://www.kaggle.com/atharvabhosale7471" target="_blank"><img src="https://img.shields.io/badge/Kaggle-0f172a?style=for-the-badge&logo=kaggle&logoColor=38bdf8&labelColor=0f172a" alt="Kaggle"/></a>
 <a href="mailto:atharva7471@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=f87171&labelColor=0f172a" alt="Email"/></a>
 <a href="https://athoofolio.vercel.app/resume" target="_blank"><img src="https://img.shields.io/badge/Resume-0f172a?style=for-the-badge&logo=read-the-docs&logoColor=a78bfa&labelColor=0f172a" alt="Resume"/></a>
 
 <br/><br/>
-<img src="https://komarev.com/ghpvc/?username=atharva7471&color=38bdf8&labelColor=0f172a&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=atharvaabhosale&color=38bdf8&labelColor=0f172a&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
@@ -102,23 +102,23 @@ React / Next.js, Flask / Python APIs, full-stack applications, and production de
 
 <div align="center">
 
-<a href="https://github.com/atharva7471/FortuneCloudBot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharva7471&repo=FortuneCloudBot&theme=transparent&hide_border=true&title_color=38bdf8&text_color=a0aec0&icon_color=818cf8&bg_color=0d0d0d" width="48%"/>
+<a href="https://github.com/atharvaabhosale/FortuneCloudBot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharvaabhosale&repo=FortuneCloudBot&theme=transparent&hide_border=true&title_color=38bdf8&text_color=a0aec0&icon_color=818cf8&bg_color=0d0d0d" width="48%"/>
 </a>
-<a href="https://github.com/atharva7471/Movie-Recommender">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharva7471&repo=Movie-Recommender&theme=transparent&hide_border=true&title_color=38bdf8&text_color=a0aec0&icon_color=818cf8&bg_color=0d0d0d" width="48%"/>
+<a href="https://github.com/atharvaabhosale/Movie-Recommender">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharvaabhosale&repo=Movie-Recommender&theme=transparent&hide_border=true&title_color=38bdf8&text_color=a0aec0&icon_color=818cf8&bg_color=0d0d0d" width="48%"/>
 </a>
-<a href="https://github.com/atharva7471/CivicFix">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharva7471&repo=CivicFix&theme=transparent&hide_border=true&title_color=38bdf8&text_color=a0aec0&icon_color=818cf8&bg_color=0d0d0d" width="48%"/>
+<a href="https://github.com/atharvaabhosale/CivicFix">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharvaabhosale&repo=CivicFix&theme=transparent&hide_border=true&title_color=38bdf8&text_color=a0aec0&icon_color=818cf8&bg_color=0d0d0d" width="48%"/>
 </a>
-<a href="https://github.com/atharva7471/AthoFolioo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharva7471&repo=AthoFolioo&theme=transparent&hide_border=true&title_color=38bdf8&text_color=a0aec0&icon_color=818cf8&bg_color=0d0d0d" width="48%"/>
+<a href="https://github.com/atharvaabhosale/AthoFolioo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharvaabhosale&repo=AthoFolioo&theme=transparent&hide_border=true&title_color=38bdf8&text_color=a0aec0&icon_color=818cf8&bg_color=0d0d0d" width="48%"/>
 </a>
-<a href="https://github.com/atharva7471/UpTrack-Habit-Tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharva7471&repo=UpTrack-Habit-Tracker&theme=transparent&hide_border=true&title_color=38bdf8&text_color=a0aec0&icon_color=818cf8&bg_color=0d0d0d" width="48%"/>
+<a href="https://github.com/atharvaabhosale/UpTrack-Habit-Tracker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharvaabhosale&repo=UpTrack-Habit-Tracker&theme=transparent&hide_border=true&title_color=38bdf8&text_color=a0aec0&icon_color=818cf8&bg_color=0d0d0d" width="48%"/>
 </a>
-<a href="https://github.com/atharva7471/Finance-Tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharva7471&repo=Finance-Tracker&theme=transparent&hide_border=true&title_color=38bdf8&text_color=a0aec0&icon_color=818cf8&bg_color=0d0d0d" width="48%"/>
+<a href="https://github.com/atharvaabhosale/Finance-Tracker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharvaabhosale&repo=Finance-Tracker&theme=transparent&hide_border=true&title_color=38bdf8&text_color=a0aec0&icon_color=818cf8&bg_color=0d0d0d" width="48%"/>
 </a>
 
 </div>
@@ -145,7 +145,7 @@ React / Next.js, Flask / Python APIs, full-stack applications, and production de
 >
 > `QUERY → EMBED → RETRIEVE → AUGMENT → GENERATE → CITE`
 >
-> **Stack:** `LangChain` `RAG` `Vector DB` `Python` `React` &nbsp;|&nbsp; [Live Demo](https://fortunecloudbot.vercel.app/) · [GitHub](https://github.com/atharva7471/FortuneCloudBot)
+> **Stack:** `LangChain` `RAG` `Vector DB` `Python` `React` &nbsp;|&nbsp; [Live Demo](https://fortunecloudbot.vercel.app/) · [GitHub](https://github.com/atharvaabhosale/FortuneCloudBot)
 
 </details>
 
@@ -155,7 +155,7 @@ React / Next.js, Flask / Python APIs, full-stack applications, and production de
 
 > Content-based movie recommendation using **cosine similarity** with a Flask web interface. Trained on 5,000+ movie records with TF-IDF vectorization and feature extraction.
 >
-> **Stack:** `Python` `Flask` `Scikit-learn` `NLP` &nbsp;|&nbsp; [GitHub](https://github.com/atharva7471/Movie-Recommender)
+> **Stack:** `Python` `Flask` `Scikit-learn` `NLP` &nbsp;|&nbsp; [GitHub](https://github.com/atharvaabhosale/Movie-Recommender)
 
 </details>
 
@@ -165,7 +165,7 @@ React / Next.js, Flask / Python APIs, full-stack applications, and production de
 
 > A civic-tech platform empowering citizens to raise and prioritize issues through **community voting**. Critical problems gain visibility and move toward resolution with measurable impact.
 >
-> **Stack:** `Python` `Flask` `MongoDB` &nbsp;|&nbsp; [Live Demo](https://civicfix-08y1.onrender.com/) · [GitHub](https://github.com/atharva7471/CivicFix)
+> **Stack:** `Python` `Flask` `MongoDB` &nbsp;|&nbsp; [Live Demo](https://civicfix-08y1.onrender.com/) · [GitHub](https://github.com/atharvaabhosale/CivicFix)
 
 </details>
 
@@ -225,26 +225,26 @@ React / Next.js, Flask / Python APIs, full-stack applications, and production de
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=atharva7471&theme=transparent&hide_border=true&title_color=38bdf8&text_color=a0aec0&icon_color=818cf8&include_all_commits=true&count_private=true&bg_color=0d0d0d&ring_color=818cf8" width="48%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=atharva7471&theme=transparent&hide_border=true&stroke=818cf8&ring=38bdf8&fire=f87171&currStreakLabel=38bdf8&sideLabels=a0aec0&dates=a0aec0&background=0d0d0d" width="48%" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=atharvaabhosale&theme=transparent&hide_border=true&title_color=38bdf8&text_color=a0aec0&icon_color=818cf8&include_all_commits=true&count_private=true&bg_color=0d0d0d&ring_color=818cf8" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvaabhosale&theme=transparent&hide_border=true&stroke=818cf8&ring=38bdf8&fire=f87171&currStreakLabel=38bdf8&sideLabels=a0aec0&dates=a0aec0&background=0d0d0d" width="48%" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharva7471&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=a0aec0&bg_color=0d0d0d&langs_count=8" width="48%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvaabhosale&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=a0aec0&bg_color=0d0d0d&langs_count=8" width="48%" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atharva7471&theme=tokyonight" width="100%" alt="Profile Summary"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atharvaabhosale&theme=tokyonight" width="100%" alt="Profile Summary"/>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atharva7471&theme=tokyonight" width="32%" alt="Repos Per Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atharva7471&theme=tokyonight" width="32%" alt="Most Commit Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=atharva7471&theme=tokyonight&utcOffset=5.5" width="32%" alt="Productive Time"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atharvaabhosale&theme=tokyonight" width="32%" alt="Repos Per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atharvaabhosale&theme=tokyonight" width="32%" alt="Most Commit Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=atharvaabhosale&theme=tokyonight&utcOffset=5.5" width="32%" alt="Productive Time"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=atharva7471&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=atharvaabhosale&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Activity Graph"/>
 
 </div>
 
@@ -275,7 +275,7 @@ React / Next.js, Flask / Python APIs, full-stack applications, and production de
 <a href="https://linkedin.com/in/atharvabhosale-ai" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=0f172a" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/atharva7471" target="_blank">
+<a href="https://github.com/atharvaabhosale" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Follow-0f172a?style=for-the-badge&logo=github&logoColor=f8fafc&labelColor=0f172a" alt="GitHub"/>
 </a>
 <a href="https://www.kaggle.com/atharvabhosale7471" target="_blank">
