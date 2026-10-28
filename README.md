@@ -244,7 +244,7 @@ React / Next.js, Flask / Python APIs, full-stack applications, and production de
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=atharvaabhosale&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Activity Graph"/>
+<img src="https://raw.githubusercontent.com/atharvaabhosale/atharvaabhosale/output/activity-graph.svg" width="100%" alt="Contribution Activity Graph"/>
 
 </div>
 
